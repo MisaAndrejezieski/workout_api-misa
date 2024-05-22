@@ -5,6 +5,6 @@ services:
     environment:
       POSTGRES_PASSWORD: 1313
       POSTGRES_USER: 1313
-      POSTGRES_DB: workout
+      POSTGRES_DB: 1313
     ports:
       - "5432:5432"
